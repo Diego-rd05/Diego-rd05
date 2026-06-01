@@ -26,4 +26,4 @@ Apasionado por transformar datos complejos en decisiones estratégicas. Ingenier
 * 💬 [WhatsApp: Escríbeme aquí](https://wa.me/59179776975)
 * 📧 [dieguinrod05@gmail.com](mailto:dieguinrod05@gmail.com)
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego-rd05&show_icons=true&theme=radical)
+

@@ -1,16 +1,29 @@
-## Hi there 👋
+# ¡Hola! Soy Diego Rodriguez Rocabado 👋
 
-<!--
-**Diego-rd05/Diego-rd05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Data Analyst | Big Data & Data Analysis Specialist**
 
-Here are some ideas to get you started:
+Apasionado por transformar datos complejos en decisiones estratégicas. Ingeniero Industrial con experiencia en analítica predictiva, visualización de datos y optimización de procesos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Habilidades Técnicas
+* **Lenguajes:** Python (Pandas, NumPy, Scikit-learn, TensorFlow), SQL.
+* **Analítica & IA:** Modelos de Clasificación, Series Temporales (Prophet), Regresión, Clustering.
+* **Visualización:** Power BI, Tableau, Matplotlib, Seaborn.
+* **Herramientas:** Google Colab, VS Code, SAP, Excel Avanzado.
+
+---
+
+### 📈 Mis Proyectos Destacados
+* **[Titanic Prediction](https://github.com/Diego-rd05/Titanic-Machine-Learning-Project):** Modelo de clasificación para predecir supervivencia con Scikit-learn.
+* **[SmartRetail Prophet](https://github.com/Diego-rd05/SmartRetail-Prophet-Predictivo):** Pronóstico de demanda y análisis inflacionario para Micromercado Doña Eva.
+* **[Auditoría de Ventas](https://github.com/Diego-rd05/SmartRetail_EDA_Auditoria_Do-aEva):** Análisis exploratorio (EDA) de más de 79k transacciones.
+
+---
+### 🔗 Conectemos
+* 💼 [LinkedIn](https://www.linkedin.com/in/diego-rodriguez-data-analyst)
+* 🌐 [Linktree](https://linktr.ee/dieguinrod)
+* 💬 [WhatsApp: Escríbeme aquí](https://wa.me/59179776975)
+* 📧 [dieguinrod05@gmail.com](mailto:dieguinrod05@gmail.com)
+---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego-rd05&show_icons=true&theme=radical)
